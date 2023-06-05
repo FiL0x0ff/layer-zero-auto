@@ -1,0 +1,12 @@
+address_to_send: ''
+coin_to_transfer: USDC
+custom_gas_price: false
+gas_limit: '300000000'
+gas_price: Auto
+max_bridge_amount: '5'
+min_bridge_amount: '4'
+send_to_one_address: false
+slippage: '0.5'
+source_chain: Avalanche
+target_chain: Polygon
+test_mode: false
